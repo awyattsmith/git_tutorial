@@ -1,5 +1,7 @@
 %% START
 
+andrewsDummyVar = 0;
+
 clc;
 clear;
 close all;
